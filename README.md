@@ -1,0 +1,2 @@
+# forecast_customer_churn_telecom
+Прогнозирование оттока клиентов
